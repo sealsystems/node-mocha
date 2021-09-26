@@ -1,3 +1,10 @@
+## 4.1.11 (2021-09-26)
+
+### Chores
+
+
+Use LTS Node.js ([6a2d91f](https://github.com/sealsystems/node-mocha/commit/6a2d91f))
+
 ## 4.1.10 (2021-05-09)
 
 ### Chores
