@@ -1,6 +1,6 @@
 {
   "name": "@sealsystems/mocha",
-  "version": "4.1.11",
+  "version": "4.2.0",
   "description": "Mocha executable and test configuration for SEAL Systems",
   "author": {
     "name": "SEAL Systems AG",

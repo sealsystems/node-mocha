@@ -1,3 +1,10 @@
+## 4.2.0 (2021-12-17)
+
+### Features
+
+
+standard mocha options deactivatable ([b01dada](https://github.com/sealsystems/node-mocha/commit/b01dada))
+
 ## 4.1.11 (2021-09-26)
 
 ### Chores
