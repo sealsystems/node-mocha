@@ -41,3 +41,21 @@ suite('getMochaOptions', () => {
     assert.that(result).is.equalTo('"test/**/*Test.js" --bail --color --exit --recursive --ui tdd --meins hugo');
   });
 });
+
+test('deactivates standard options', async () => {
+  const tmp = process.argv;
+
+  process.argv = [
+    'node',
+    'test-run',
+    '-mocha--no-bail',
+    '-mocha--no-color',
+    '-mocha--no-exit',
+    '-mocha--no-recursive',
+    '-mocha--meins'
+  ];
+  const result = getMochaOptions();
+  process.argv = tmp;
+
+  assert.that(result).is.equalTo('"test/**/*Test.js" --ui tdd --meins');
+});
