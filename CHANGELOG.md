@@ -1,3 +1,10 @@
+## 4.2.1 (2022-02-04)
+
+### Bug Fixes
+
+
+Remove itself from devDependencies ([8d36f61](https://github.com/sealsystems/node-mocha/commit/8d36f61))
+
 ## 4.2.0 (2021-12-17)
 
 ### Features
