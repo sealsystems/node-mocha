@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "assertthat": "3.3.0",
-    "mocha": "8.3.2",
+    "mocha": "9.2.0",
     "nyc": "15.1.0",
     "shelljs": "0.8.5"
   },
