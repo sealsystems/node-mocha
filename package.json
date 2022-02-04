@@ -36,7 +36,6 @@
   },
   "devDependencies": {
     "@sealsystems/eslint-config-es": "3.7.3",
-    "@sealsystems/mocha": "4.2.0",
     "license-checker": "25.0.1"
   },
   "release": {
