@@ -1,3 +1,10 @@
+## 4.2.2 (2022-02-04)
+
+### Chores
+
+
+bump shelljs from 0.8.4 to 0.8.5 ([0c63529](https://github.com/sealsystems/node-mocha/commit/0c63529))
+
 ## 4.2.1 (2022-02-04)
 
 ### Bug Fixes
