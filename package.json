@@ -31,12 +31,13 @@
     "url": "https://github.com/sealsystems/node-mocha.git"
   },
   "dependencies": {
+    "assertthat": "3.3.0",
     "mocha": "8.3.2",
+    "nyc": "15.1.0",
     "shelljs": "0.8.4"
   },
   "devDependencies": {
     "@sealsystems/eslint-config-es": "3.7.3",
-    "@sealsystems/mocha": "4.2.0",
     "license-checker": "25.0.1"
   },
   "release": {
