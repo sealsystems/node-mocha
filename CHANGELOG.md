@@ -1,3 +1,10 @@
+## 4.2.3 (2022-02-05)
+
+### Chores
+
+
+bump mocha from 8.3.2 to 8.4.0 ([d6c9181](https://github.com/sealsystems/node-mocha/commit/d6c9181))
+
 ## 4.2.2 (2022-02-04)
 
 ### Chores
