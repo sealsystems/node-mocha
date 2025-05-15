@@ -34,7 +34,7 @@
     "assertthat": "3.3.0",
     "mocha": "8.4.0",
     "nyc": "15.1.0",
-    "shelljs": "0.8.5"
+    "shelljs": "0.10.0"
   },
   "devDependencies": {
     "@sealsystems/eslint-config-es": "3.7.10",
