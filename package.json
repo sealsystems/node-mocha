@@ -31,8 +31,8 @@
     "url": "https://github.com/sealsystems/node-mocha.git"
   },
   "dependencies": {
-    "assertthat": "3.3.0",
-    "mocha": "8.4.0",
+    "assertthat": "6.5.2",
+    "mocha": "11.7.1",
     "nyc": "15.1.0",
     "shelljs": "0.8.5"
   },
